@@ -28,4 +28,4 @@
 ### **نتیجه کلیدی**
 در میان مدل‌های ارزیابی‌شده، **درخت تصمیم (Decision Tree)** با **دقت ۷۹.۵٪** بهترین عملکرد را روی داده‌های آزمایشی از خود نشان داد.
 
-![Model Comparison](https://github.com/AmirhosseinQaem/Alzheimer-Classification-ML/blob/b77f93b831d2ee3819ba876041dfd86651d765fe/comparison_chart_image.png)
+![Model Comparison](comparison_chart_image.png)
